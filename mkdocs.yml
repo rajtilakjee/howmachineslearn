@@ -1,0 +1,5 @@
+site_name: How Machines Learn
+
+site_url: https://howmachineslearn.netlify.app
+theme:
+  name: material
